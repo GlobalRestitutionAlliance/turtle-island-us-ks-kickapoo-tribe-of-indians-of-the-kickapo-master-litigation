@@ -1,6 +1,6 @@
 # US KS KICKAPOO TRIBE OF INDIANS OF THE KICKAPO - Litigation Framework
 
-**Template:** CUBA-adapted framework
+**Template:** GRA litigation framework
 **Generated:** 2026-11-21
 **Status:** SCAFFOLD - verification required. No fabricated citations.
 
